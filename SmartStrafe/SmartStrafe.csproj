@@ -8,6 +8,6 @@
     <Version>0.0.1.0</Version>
     <PackageProjectUrl>https://github.com/k0etsu/SmartStrafe</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
-    <IsPackable>false</IsPackable>
+    <AppendPlatformToOutputPath>false</AppendPlatformToOutputPath>
   </PropertyGroup>
 </Project>
