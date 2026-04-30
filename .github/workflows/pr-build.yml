@@ -1,4 +1,4 @@
-name: CastTimeline PR Builder
+name: SmartStrafe PR Builder
 
 on:
   pull_request:
